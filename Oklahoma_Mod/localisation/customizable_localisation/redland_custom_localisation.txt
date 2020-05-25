@@ -1,0 +1,17 @@
+defined_text = {
+	name = okla_culture_name
+	text = {
+		trigger = {
+			NOT = {
+				culture = oklahoman
+			}
+		}
+		localisation_key = String_okla_culture_1
+	}
+	text = {
+		trigger = {
+			culture = oklahoman
+		}
+		localisation_key = String_okla_culture_2
+	}
+}

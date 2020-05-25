@@ -1,0 +1,4 @@
+mason_spared = {
+	opinion = 75
+	years = 25
+}
